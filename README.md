@@ -1,10 +1,13 @@
 # Secure-Boot-UEFI-Zertifikate prüfen und aktualisieren 
 
 Dieses Skript prüft, ob dein Windows-PC bereits die **neuen Secure-Boot-UEFI-Zertifikate (\"Windows UEFI CA 2023\")** verwendet und kann bei Bedarf die von Microsoft vorgesehenen Schritte zum Umstieg anstoßen.
+Windows PCs mit alten Zertifikaten starten nach dem 24.–27. Juni 2026 nicht mehr !!!
 
-Wenn du mehr dazu möchten willst, schaue hier: https://support.microsoft.com/de-de/topic/ablauf-des-windows-secure-boot-zertifikats-und-updates-der-zertifizierungsstelle-7ff40d33-95dc-4c3c-8725-a9b95457578e
+Wenn du mehr dazu möchten willst, kannst du die Infos offiziell bei Microsoft nachlesen: https://support.microsoft.com/de-de/topic/ablauf-des-windows-secure-boot-zertifikats-und-updates-der-zertifizierungsstelle-7ff40d33-95dc-4c3c-8725-a9b95457578e
 
-Das Skript ist für **Einzelgeräte** gedacht (z. B. Privatrechner oder kleine Umgebungen) und stellt dem Benutzer einfache Ja/Nein-Fragen. 
+Das Skript ist für **Einzelgeräte** gedacht (Privatrechner) und stellt dem Benutzer einfache Ja/Nein-Fragen. Wenn du einen Firmenrechner hast, wird sich (hoffentlich) deine IT-Abteilung darum kümmern.
+
+Das Skript und diese Anleitung wurde mit Hilfe von KI generiert und wurde NICHT auf Herz und Nieren geprüft. Alle durchlaufenen Tests waren aber erfolgreich.
 
 ***
 
