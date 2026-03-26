@@ -195,4 +195,4 @@ Wenn alles erfolgreich war, zeigt dir das Skript an, dass die neuen Zertifikate 
 
 ## 11. Support
 
-Wenn du beim Ausführen des Skripts auf Probleme stößt oder Fehlermeldungen siehst, notiere dir den genauen Wortlaut der Meldung und wende dich an die Person oder Stelle, von der du das Skript erhalten hast (z. B. deinen Administrator oder IT-Support).
+Leider nicht vorhanden :-(
