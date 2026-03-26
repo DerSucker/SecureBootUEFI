@@ -32,9 +32,11 @@ Das Skript und diese Anleitung wurde mit Hilfe von KI generiert und wurde NICHT 
 
 ## 1. Skript speichern
 
+Lade Das PowershellScript (https://github.com/DerSucker/SecureBootUEFI/blob/main/Check-SecureBootUEFI.ps1) z.B. nach C:\Tools runter oder speichere es folgendermaßen:
+
 1. Öffne den Windows-Editor (**Notepad**):
    - Startmenü öffnen, nach **"Editor"** oder **"Notepad"** suchen und starten.
-2. Kopiere den vollständigen PowerShell-Code des Skripts in das leere Editor-Fenster.
+2. Kopiere den vollständigen PowerShell-Code des Skripts (https://github.com/DerSucker/SecureBootUEFI/blob/main/Check-SecureBootUEFI.ps1) in das leere Editor-Fenster.
 3. Klicke im Editor auf **"Datei" → "Speichern unter…"**.
 4. Wähle einen Ordner, z. B. `C:\Tools`.
 5. Gib als Dateinamen z. B. ein:
