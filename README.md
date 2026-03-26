@@ -33,7 +33,7 @@ Das Skript ist für **Einzelgeräte** gedacht (z. B. Privatrechner oder kleine U
    - Startmenü öffnen, nach **"Editor"** oder **"Notepad"** suchen und starten.
 2. Kopiere den vollständigen PowerShell-Code des Skripts in das leere Editor-Fenster.
 3. Klicke im Editor auf **"Datei" → "Speichern unter…"**.
-4. Wähle einen Ordner, z. B. `C:\\Tools`.
+4. Wähle einen Ordner, z. B. `C:\Tools`.
 5. Gib als Dateinamen z. B. ein:
 
    ```text
@@ -46,7 +46,7 @@ Das Skript ist für **Einzelgeräte** gedacht (z. B. Privatrechner oder kleine U
 Jetzt liegt die Datei z. B. unter:
 
 ```text
-C:\\Tools\\Check-SecureBootUEFI.ps1
+C:\Tools\Check-SecureBootUEFI.ps1
 ```
 
 ***
@@ -85,13 +85,13 @@ Hinweis: Diese Einstellung gilt nur für dein Benutzerkonto und kann bei Bedarf 
 
 ## 4. In den Skript-Ordner wechseln
 
-Wechsle nun in den Ordner, in dem du das Skript gespeichert hast. Beispiel `C:\\Tools`:
+Wechsle nun in den Ordner, in dem du das Skript gespeichert hast. Beispiel `C:\Tools`:
 
 ```powershell
-Set-Location C:\\Tools
+Set-Location C:\Tools
 ```
 
-Du erkennst am Prompt (Eingabezeile), dass du jetzt in `C:\\Tools>` bist.
+Du erkennst am Prompt (Eingabezeile), dass du jetzt in `C:\Tools>` bist.
 
 ***
 
@@ -100,7 +100,7 @@ Du erkennst am Prompt (Eingabezeile), dass du jetzt in `C:\\Tools>` bist.
 Starte das Skript mit folgendem Befehl:
 
 ```powershell
-.\\Check-SecureBootUEFI.ps1
+.\Check-SecureBootUEFI.ps1
 ```
 
 Das Skript führt nun mehrere Prüfungen aus, z. B.:
@@ -159,13 +159,13 @@ Du kannst das Skript jederzeit wieder starten, um den Status zu prüfen:
 2. In den Skript-Ordner wechseln, z. B.:
 
    ```powershell
-   Set-Location C:\\Tools
+   Set-Location C:\Tools
    ```
 
 3. Skript ausführen:
 
    ```powershell
-   .\\Check-SecureBootUEFI.ps1
+   .\Check-SecureBootUEFI.ps1
    ```
 
 Wenn alles erfolgreich war, zeigt dir das Skript an, dass die neuen Zertifikate bereits vorhanden sind und keine weiteren Maßnahmen nötig sind.
