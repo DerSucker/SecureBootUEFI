@@ -2,6 +2,7 @@
 
 Dieses Skript prüft, ob dein Windows-PC bereits die **neuen Secure-Boot-UEFI-Zertifikate (\"Windows UEFI CA 2023\")** verwendet und kann bei Bedarf die von Microsoft vorgesehenen Schritte zum Umstieg anstoßen.
 Windows PCs mit alten Zertifikaten starten nach dem 24.–27. Juni 2026 nicht mehr !!!
+Dieses Problem sollte durch Windows Updates behoben sein,jedoch funktioniert das nicht immer automatisch.
 
 Wenn du mehr dazu möchten willst, kannst du die Infos offiziell bei Microsoft nachlesen: https://support.microsoft.com/de-de/topic/ablauf-des-windows-secure-boot-zertifikats-und-updates-der-zertifizierungsstelle-7ff40d33-95dc-4c3c-8725-a9b95457578e
 
